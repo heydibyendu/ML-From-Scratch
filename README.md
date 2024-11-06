@@ -27,6 +27,6 @@ In this repository, you'll find essential machine learning algorithms implemente
 ### Installation
 Clone the repository to your local machine:
 ```bash
-git clone https://github.com/your-username/ML-Algorithms-from-Scratch.git
-cd ML-Algorithms-from-Scratch
+git clone https://github.com/heydibyendu/ML-From-Scratch.git
+cd ML-From-Scratch
 ```
