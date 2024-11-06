@@ -10,14 +10,8 @@ In this repository, you'll find essential machine learning algorithms implemente
 - **K-Nearest Neighbors (KNN)**: A simple, yet powerful algorithm that classifies data points based on their nearest neighbors.
 
 ## Upcoming Algorithms
-### Regression
-- (Placeholder for upcoming regression algorithms)
-
-### Clustering
-- (Placeholder for clustering algorithms like K-Means)
-
-### Dimensionality Reduction
-- (Placeholder for techniques like PCA)
+- Logistic Regression
+- FNN
 
 ## Getting Started
 ### Prerequisites
